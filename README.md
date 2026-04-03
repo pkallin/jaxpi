@@ -7,6 +7,3 @@ A fork of the [Jaxpi](https://github.com/predictiveintelligencelab/jaxpi) reposi
 - Install the JAX implementation of the SOAP optimizer:  
   https://github.com/haydn-jones/SOAP_JAX
 
-- Install `psgd_jax`:
-```
-pip install psgd_jax
