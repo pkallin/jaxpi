@@ -1,6 +1,6 @@
 # FBL-Jaxpi
 
-A fork of the [Jaxpi](https://github.com/predictiveintelligencelab/jaxpi) repository with small adjustments to support physics-informed feedback linearization.
+A fork of the [Jaxpi](https://github.com/predictiveintelligencelab/jaxpi) repository with small adjustments to support physics-informed feedback linearization. For installation guidelines and further details, see the original repository.
 
 ## Missing Packages
 
