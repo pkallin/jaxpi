@@ -1,5 +1,7 @@
-# JAX-PI
+# FBL-Jaxpi
+A fork of the jaxpi repository with some small adjustments to accommodate physics-informed feedback linearization.
 
+# JAX-PI
 This repository is a comprehensive implementation of physics-informed neural networks (PINNs), seamlessly integrating several advanced network architectures, training algorithms from these papers 
 
 - [Gradient Alignment in Physics-informed Neural Networks: A Second-Order Optimization Perspective](https://arxiv.org/abs/2502.00604)
