@@ -26,6 +26,8 @@ setup(
         "optax",
         "scipy",
         "wandb",
+        "tabulate",
+        "psgd-jax",
     ],
     extras_require={
         "testing": ["pytest"],
